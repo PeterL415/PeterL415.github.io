@@ -96,7 +96,7 @@ author:
   name             : "Barack Obama"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am the 44th president of the United States of America."
-  location         : "not the White House anymore **:(**"
+  location         : "not the White House anymore <b>:(</b>"
   email            :
   links:
     - label: "Email"
