@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/PeterL415/PeterL415.github
 
 asdf
 
-[Link]https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
+[Link](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
