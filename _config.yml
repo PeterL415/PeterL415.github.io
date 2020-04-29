@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Barack Obama"
+  name             : "Random Person"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am the 44th president of the United States of America."
-  location         : "not the White House anymore <b>:(</b>"
+  bio              : "Currently injecting disinfectant and protesting the virus."
+  location         : "The virus is fake news created by the government and is limiting our freedoms."
   email            :
   links:
     - label: "Email"
