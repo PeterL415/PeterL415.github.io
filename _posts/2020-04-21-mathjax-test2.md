@@ -1,4 +1,7 @@
 ---
+mathjax: true
+layout: true
+comments: true
 title: "MathJAX Test2"
 ---
 

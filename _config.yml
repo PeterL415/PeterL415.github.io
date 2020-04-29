@@ -96,7 +96,7 @@ author:
   name             : "Millennium Pages"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Above is our logo"
-  location         : "High school students in the US"
+  location         : "High school students in the USA"
   email            :
   links:
     - label: "Email"
