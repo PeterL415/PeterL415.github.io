@@ -1,7 +1,7 @@
 ---
 title: "Testing Jekyll"
 comments: true
-layout: true
+layout: posts
 ---
 
 # Testing out markdown with jekyll
