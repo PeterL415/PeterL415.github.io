@@ -1,5 +1,5 @@
 ---
-title: "MathJAX Test"
+title: "Testing Jekyll"
 comments: true
 layout: true
 ---
